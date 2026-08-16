@@ -1,0 +1,55 @@
+{
+  "students": [
+    {
+      "firstname": "Shankar",
+      "dob": "1992-05-07",
+
+      "addresses": [
+        {
+          "type": "perm",
+          "flatnumber": 104,
+          "street": "hasthinapuram north",
+          "city": "hyderabad"
+        },
+        {
+          "type": "current",
+          "flatnumber": 104,
+          "street": "hasthinapuram north",
+          "city": "hyderabad"
+        }
+      ],
+
+      "skills": [
+        "java",
+        "devops",
+        "cloud"
+      ]
+    },
+
+    {
+      "firstname": "Shankar",
+      "dob": "1992-05-07",
+
+      "addresses": [
+        {
+          "type": "perm",
+          "flatnumber": 104,
+          "street": "hasthinapuram north",
+          "city": "hyderabad"
+        },
+        {
+          "type": "current",
+          "flatnumber": 104,
+          "street": "hasthinapuram north",
+          "city": "hyderabad"
+        }
+      ],
+
+      "skills": [
+        "java",
+        "devops",
+        "cloud"
+      ]
+    }
+  ]
+}

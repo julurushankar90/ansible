@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Student object -->
+<Students>
+
+    <Student>
+        <Firstname>Shankar</Firstname>
+        <DOB>1992-05-07</DOB>
+        <Email>julurushankar90@gmail.com</Email>
+
+        <!--
+        <Address>104 Hasthinapuram North</Address>
+
+        <Address>
+            <FlatNumber>93</FlatNumber>
+            <Street>santoshi mata temple</Street>
+            <City>Hyderabad</City>
+        </Address>
+
+        <Addresses>
+            <Permaddreses>
+                <FlatNumber>93</FlatNumber>
+                <Street>santoshi mata temple</Street>
+                <City>Hyderabad</City>
+            </Permaddreses>
+
+            <Currentaddreses>
+                <FlatNumber>93</FlatNumber>
+                <Street>santoshi mata temple</Street>
+                <City>Hyderabad</City>
+            </Currentaddreses>
+        </Addresses>
+        -->
+
+    </Student>
+
+    <Student>
+        <Firstname>Shivansh</Firstname>
+        <DOB>1992-05-07</DOB>
+        <Email>julurushankar90@gmail.com</Email>
+
+        <Address>104 Hasthinapuram North</Address>
+
+        <Address>
+            <FlatNumber>93</FlatNumber>
+            <Street>santoshi mata temple</Street>
+            <City>Hyderabad</City>
+        </Address>
+
+        <Addresses>
+            <Permaddreses>
+                <FlatNumber>93</FlatNumber>
+                <Street>santoshi mata temple</Street>
+                <City>Hyderabad</City>
+            </Permaddreses>
+
+            <Currentaddreses>
+                <FlatNumber>93</FlatNumber>
+                <Street>santoshi mata temple</Street>
+                <City>Hyderabad</City>
+            </Currentaddreses>
+        </Addresses>
+
+    </Student>
+
+    <Student>
+        <Firstname>Abhi</Firstname>
+        <DOB>1992-05-07</DOB>
+        <Email>julurushankar90@gmail.com</Email>
+
+        <Address>104 Hasthinapuram North</Address>
+
+        <Address>
+            <FlatNumber>93</FlatNumber>
+            <Street>santoshi mata temple</Street>
+            <City>Hyderabad</City>
+        </Address>
+
+        <Addresses>
+            <Permaddreses>
+                <FlatNumber>93</FlatNumber>
+                <Street>santoshi mata temple</Street>
+                <City>Hyderabad</City>
+            </Permaddreses>
+
+            <Currentaddreses>
+                <FlatNumber>93</FlatNumber>
+                <Street>santoshi mata temple</Street>
+                <City>Hyderabad</City>
+            </Currentaddreses>
+        </Addresses>
+
+    </Student>
+
+</Students>
+

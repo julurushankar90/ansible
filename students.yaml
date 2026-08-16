@@ -1,0 +1,27 @@
+- name: "Shankar"
+  dob: 1992-05-07"
+  mobilenumber: 1234567890
+  addresses:
+  - flatnumber: 104
+    street: "hasthinapuram north"
+    city: hyderabad
+    type: perm
+  
+  - flatnumber: 104
+    street: "hasthinapuram north"
+    city: hyderabad
+    type: perm
+
+- name: "Shankar"
+  dob: 1992-05-07"
+  mobilenumber: 1234567890
+  addresses:
+  - flatnumber: 104
+    street: "hasthinapuram north"
+    city: hyderabad
+    type: perm
+  
+  - flatnumber: 104
+    street: "hasthinapuram north"
+    city: hyderabad
+    type: perm
