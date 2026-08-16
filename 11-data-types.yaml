@@ -18,6 +18,6 @@
       msg: 
         Program: "{{ PROGRAM }}"
         Duration: "{{ DURATION }}"
-        Is Live: "{{ IS_LIVE}}"
+        Is Live?: "{{ IS_LIVE}}"
         Details: "{{ DETAILS}}"
         Topics: "{{ TOPICS }}"
