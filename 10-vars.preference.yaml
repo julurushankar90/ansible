@@ -15,4 +15,3 @@
       NAME: "Ansible from Task"
     ansible.builtin.debug:
       msg: 'Hi {{ NAME }}"
-      
