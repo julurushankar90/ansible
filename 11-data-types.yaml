@@ -8,7 +8,7 @@
     DETAILS: # Map/dictonary
       MONTHS: 4
       TRAINER: "Shankar"
-    TOPICS: #List -/[]
+    TOPICS: # List -/[]
     - Linux
     - Shell
     - Ansible
