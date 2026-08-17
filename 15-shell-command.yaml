@@ -3,4 +3,5 @@
   connection: local
   tasks:
   - name: command module test
-    ansible.builtin.command: cat /etc/passed | grep root
+    ansible.builtin.command: cat /etc/passwd | grep root
+    register: users_output
