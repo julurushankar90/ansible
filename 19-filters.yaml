@@ -8,7 +8,7 @@
       project: roboshop
       component: catalogue
   tasks:
-  - name: greeting
+  - Name: greeting
     ansible.biultin.debug:
       msg: "Hi Shankar, {{ GREETING | default('Good Morning') }}"
 
