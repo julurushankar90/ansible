@@ -13,7 +13,7 @@
       msg: "Hi Shankar, {{ GREETING | default('Good Morning') }}"
 
   - name: convert string to list
-    ansible.builton.debug:
+    ansible.builtin.debug:
       msg: "{{ topics | split(',') }}"
 
   - name: convert map to list
